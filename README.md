@@ -12,13 +12,16 @@ Aquí hay recetas de:
 	- Pollo a la cerveza
 	- Pollo con verdura
 * Carne & aves
+	- Pollo a la cerveza
+	- Pollo con verdura
 * Postres
 	- Buñuelos
 	- Higos
 	- Mousse
 	- Macedonia
 * Verduras
-* Tortillas
+	- Ratatouille
+* [Tortillas](Tortillas/)
 	- Tortilla de patata
 	- Tortilla con chorizo
 
