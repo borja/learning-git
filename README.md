@@ -12,5 +12,7 @@ Aquí hay recetas de:
 Para colaborar
 --------------
 
+incluimos nuevas recetas
+
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
