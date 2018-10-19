@@ -3,11 +3,12 @@ Repositorio de recetas con fines didácticos
 
 Aquí hay recetas de:
 
-* Guisos
+* [Ensaladas](Ensaladas/)
+* [Guisos](Guisos/)
 	- Arroz caldoso
 	- Carrilleras
 	- Cocido
-	- Gachas
+	- Gachas manchegas
 	- Guiso
 	- Pollo a la cerveza
 	- Pollo con verdura
@@ -19,11 +20,17 @@ Aquí hay recetas de:
 	- Higos
 	- Mousse
 	- Macedonia
-* Verduras
+	- Buñuelos de manzanas
+	- Higos con queso de cabra gratinados
+	- Mousse de limón con merengue
+	- Tarta de manzana* Verduras
+* [Verduras](Verduras/)
 	- Ratatouille
 * [Tortillas](Tortillas/)
-	- Tortilla de patata
-	- Tortilla con chorizo
+	- Patatas
+	- Chorizo
+	- Tuning	
+
 
 Para colaborar
 --------------
