@@ -4,7 +4,7 @@ Repositorio de recetas con fines didácticos
 Aquí hay recetas de:
 
 * [Ensaladas](Ensaladas/)
-<<<<<<< HEAD
+
 * [Guisos](Guisos/)
 	- Arroz Caldoso
 	- Gachas Manchegas
@@ -18,6 +18,8 @@ Aquí hay recetas de:
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
+	- guiso1
+	- postre1
 
 * Carne & aves
 
@@ -27,14 +29,17 @@ Aquí hay recetas de:
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  	- Flan de huevo	
+  	- Flan de huevo
+	- tarta de fresa	
 
 * Verduras
 * [Tortillas](Tortillas/)
 	- Patatas 
 	- Tuning
 	- Chorizo
-	- Epinacas espinacas  
+	- Epinacas espinacas
+	- tortilla_patatas
+	- tortilla_patatas_atun  
 
 Para colaborar
 --------------
