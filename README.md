@@ -3,7 +3,8 @@ Repositorio de recetas con fines didácticos
 
 Aquí hay recetas de:
 
-* Guisos
+* Guisos:
+
   ** Arroz Caldoso
   ** Caldereta de Pescado
   ** Estofado de Ternera
@@ -13,13 +14,17 @@ Aquí hay recetas de:
   ** Pollo con Pisto
   ** Pollo con Verduras
   ** Receta de Git
-* Postres
+
+* Postres:
+
   ** Buñuelos de Manzana
   ** Higos con Queso de Cabra Gratinado
   ** Mousse de Limón con Merengue
   ** Natillas
   ** Flan e Huevo
-* Tortillas
+
+* Tortillas:
+
   ** Tortilla de Patatas
   ** Tortilla de Patatas Vegana
   ** Tortilla de Espinacas
