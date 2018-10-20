@@ -7,13 +7,13 @@ Aquí hay recetas de:
 
     * Arroz Caldoso
     * Caldereta de Pescado
-  ** Estofado de Ternera
-  ** Guiso de Carne con Patatas
-  ** Patatas Fritas Horneadas
-  ** Pollo a la Cerveza con Setas y Alcachofas
-  ** Pollo con Pisto
-  ** Pollo con Verduras
-  ** Receta de Git
+    * Estofado de Ternera
+  * Guiso de Carne con Patatas
+  * Patatas Fritas Horneadas
+  * Pollo a la Cerveza con Setas y Alcachofas
+  * Pollo con Pisto
+  * Pollo con Verduras
+  * Receta de Git
 
 * Postres:
 
