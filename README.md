@@ -5,7 +5,7 @@ Aquí hay recetas de:
 
 * Guisos:
 
-  ** Arroz Caldoso
+** Arroz Caldoso
   ** Caldereta de Pescado
   ** Estofado de Ternera
   ** Guiso de Carne con Patatas
