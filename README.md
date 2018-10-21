@@ -7,6 +7,7 @@ Aquí hay recetas de
 * [Ensaladas](Ensaladas/)
 
 * [Guisos](Guisos/)
+	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
@@ -19,18 +20,18 @@ Aquí hay recetas de
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
-        - Recetas de Git
+        
 
 * Carne & aves
 
 * [Postres](Postres/)
+	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
   	- Flan de huevo	
-        - Natillas
 
 * Verduras
 
