@@ -37,7 +37,7 @@ Aquí hay recetas de
 
 * [Tortillas](Tortillas/)
 	- Patatas
-        - De Patatas Vegana 
+	- De Patatas Vegana 
 	- Tuning
 	- Chorizo
 	- Epinacas espinacas  
