@@ -5,9 +5,9 @@ Aquí hay recetas de:
 
 * Guisos:
 
-    * Arroz Caldoso
-    * Caldereta de Pescado
-    * Estofado de Ternera
+  * Arroz Caldoso
+  * Caldereta de Pescado
+  * Estofado de Ternera
   * Guiso de Carne con Patatas
   * Patatas Fritas Horneadas
   * Pollo a la Cerveza con Setas y Alcachofas
@@ -17,17 +17,17 @@ Aquí hay recetas de:
 
 * Postres:
 
-  ** Buñuelos de Manzana
-  ** Higos con Queso de Cabra Gratinado
-  ** Mousse de Limón con Merengue
-  ** Natillas
-  ** Flan e Huevo
+  * Buñuelos de Manzana
+  * Higos con Queso de Cabra Gratinado
+  * Mousse de Limón con Merengue
+  * Natillas
+  * Flan e Huevo
 
 * Tortillas:
 
-  ** Tortilla de Patatas
-  ** Tortilla de Patatas Vegana
-  ** Tortilla de Espinacas
+  * Tortilla de Patatas
+  * Tortilla de Patatas Vegana
+  * Tortilla de Espinacas
 
 
 Para colaborar
