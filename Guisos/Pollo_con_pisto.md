@@ -7,4 +7,8 @@ Ingredientes
 100 gr. tomates maduros  
 3 pimientos verdes 
 2 pimiento rojo  
+<<<<<<< HEAD
 aceite, sal, pimienta
+=======
+aceite, sal, pimienta
+>>>>>>> 6442c05be1b7f4fa11d8efc83ddf469f5b49362c
