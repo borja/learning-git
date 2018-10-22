@@ -6,6 +6,9 @@ Aquí hay recetas de
 
 * [Ensaladas](Ensaladas/)
 
+	- Ensalada Caprese
+	- Ensalada de garbanzos y hortalizas
+
 * [Guisos](Guisos/)
 	- Recetas de Git
 	- Arroz Caldoso
@@ -20,9 +23,10 @@ Aquí hay recetas de
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
-        
+	- Lentejas
 
 * Carne & aves
+	- Morteruelo
 
 * [Postres](Postres/)
 	- Natillas
@@ -35,9 +39,12 @@ Aquí hay recetas de
 
 * Verduras
 
+
 * [Tortillas](Tortillas/)
 	- Patatas
 	- De Patatas Vegana 
+	- Patatas cocidas
+	- Francesa
 	- Tuning
 	- Chorizo
 	- Epinacas espinacas  
