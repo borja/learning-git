@@ -25,7 +25,7 @@ Aquí hay recetas de
 	- Patatas fritas horneadas
 	- Lentejas
 
-* [Carne & Aves](Carne & aves)
+* [Carne & Aves](Carne & aves/)
 	- Morteruelo
 
 * [Postres](Postres/)
