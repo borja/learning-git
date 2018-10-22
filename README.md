@@ -25,7 +25,7 @@ Aquí hay recetas de
 	- Patatas fritas horneadas
 	- Lentejas
 
-* Carne & aves
+* [Carne & Aves](Carne & aves)
 	- Morteruelo
 
 * [Postres](Postres/)
@@ -37,7 +37,7 @@ Aquí hay recetas de
 	- Tarta de manzana
   	- Flan de huevo	
 
-* Verduras
+* [Verduras](Verduras/)
 
 
 * [Tortillas](Tortillas/)
