@@ -4,11 +4,8 @@ Repositorio de recetas con fines didácticos
 Aquí hay recetas de:
 
 * [Ensaladas](Ensaladas/)
-<<<<<<< HEAD
-=======
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
->>>>>>> 6a392867d084e788221992b729ac9fd90600bf37
 
 * [Guisos](Guisos/)
 	- Arroz Caldoso
@@ -23,12 +20,8 @@ Aquí hay recetas de:
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
-<<<<<<< HEAD
 	- guiso1
-	- postre1
-=======
 	- Lentejas
->>>>>>> 6a392867d084e788221992b729ac9fd90600bf37
 
 * Carne & aves
 	- Morteruelo
@@ -40,7 +33,8 @@ Aquí hay recetas de:
 	- Mousse de limón con merengue
 	- Tarta de manzana
   	- Flan de huevo
-	- tarta de fresa	
+	- tarta de fresa
+	- postre1	
 
 * Verduras
 	- Patatas cocidas
