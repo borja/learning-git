@@ -11,8 +11,4 @@ Sal o pastilla de caldo
 1 zanahoria
 Un puñado grande de guisantes (opcional)
 Pimienta en grano
-<<<<<<< HEAD
 Hierbas frescas al gusto (tomillo, romero…)
-=======
-Hierbas frescas al gusto (tomillo, romero…)
->>>>>>> 6442c05be1b7f4fa11d8efc83ddf469f5b49362c

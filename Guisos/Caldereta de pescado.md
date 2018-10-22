@@ -14,8 +14,4 @@ un chorrito de vino blanco
  sal
 1 cucharadita de azúcar
  pimentón al gusto
-<<<<<<< HEAD
  harina
-=======
- harina
->>>>>>> 6442c05be1b7f4fa11d8efc83ddf469f5b49362c
