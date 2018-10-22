@@ -38,6 +38,7 @@ Aquí hay recetas de
   	- Flan de huevo	
 
 * [Verduras](Verduras/)
+	- Patatas Cocidas
 
 
 * [Tortillas](Tortillas/)
