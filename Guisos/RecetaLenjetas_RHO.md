@@ -1,5 +1,7 @@
+=======
 LENTEJAS
 ========
+
 Antes de cocinar las lentejas
 Uno de los pasos importantes es la elección de las lentejas. Yo utilizo la más común, la lenteja pardina extra, que se encuentran en cualquier mercado o supermercado.
 Lo mejor de esta clase de lentejas es que no necesitan remojo previo a su cocción, aunque yo lo suelo hacer para ahorrar tiempo de cocción.
