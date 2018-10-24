@@ -26,10 +26,14 @@ Aquí hay recetas de
 	- guiso1
 	- Lentejas
 
-* [Carne-Aves](Carne-aves/)
+* [Carne & aves](Carne & aves/)
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Lentejas
 	- Morteruelo
 
 * [Postres](Postres/)
+	- Macedonia
 	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
@@ -38,22 +42,21 @@ Aquí hay recetas de
 	- Tarta de manzana
   	- Flan de huevo
 	- tarta de fresa
-	- postre1	
+	- postre1
 
 * [Verduras](Verduras/)
+	- Ratatouille
 	- Patatas Cocidas
-
 
 * [Tortillas](Tortillas/)
 	- Patatas
 	- De Patatas Vegana 
 	- Patatas cocidas
 	- Francesa
-	- Tuning
 	- Chorizo
-	- Epinacas espinacas
-	- tortilla_patatas
-	- tortilla_patatas_atun  
+	- Tuning
+	- Espinacas
+	- Atun
 
 Para colaborar
 --------------
