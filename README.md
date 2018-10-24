@@ -23,6 +23,7 @@ Aquí hay recetas de
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
+	- guiso1
 	- Lentejas
 
 * [Carne-Aves](Carne-aves/)
@@ -35,7 +36,9 @@ Aquí hay recetas de
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  	- Flan de huevo	
+  	- Flan de huevo
+	- tarta de fresa
+	- postre1	
 
 * [Verduras](Verduras/)
 	- Patatas Cocidas
@@ -48,10 +51,14 @@ Aquí hay recetas de
 	- Francesa
 	- Tuning
 	- Chorizo
-	- Epinacas espinacas  
+	- Epinacas espinacas
+	- tortilla_patatas
+	- tortilla_patatas_atun  
 
 Para colaborar
 --------------
+
+incluimos nuevas recetas
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
