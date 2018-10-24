@@ -1,20 +1,23 @@
 ﻿# learning-git
 Repositorio de recetas con fines didácticos
 
-Aquí hay recetas de:
+Aquí hay recetas de
+===================
 
 * [Ensaladas](Ensaladas/)
+
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
 * [Guisos](Guisos/)
+	- Recetas de Git
 	- Arroz Caldoso
 	- Gachas Manchegas
 	- Guiso
-	- Caldereta de pescado
+	- Caldereta de Pescado
 	- Carrilleras al vino
 	- Cocido madrileño
-	- Estofado de ternera
+	- Estofado de Ternera
 	- Pollo a la cerveza
 	- Pollo con pisto
 	- Pollo con verduras 
@@ -22,10 +25,11 @@ Aquí hay recetas de:
 	- Patatas fritas horneadas
 	- Lentejas
 
-* Carne & aves
+* [Carne-Aves](Carne-aves/)
 	- Morteruelo
 
 * [Postres](Postres/)
+	- Natillas
 	- Brownie
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
@@ -33,11 +37,14 @@ Aquí hay recetas de:
 	- Tarta de manzana
   	- Flan de huevo	
 
-* Verduras
-	- Patatas cocidas
+* [Verduras](Verduras/)
+	- Patatas Cocidas
+
 
 * [Tortillas](Tortillas/)
-	- Patatas 
+	- Patatas
+	- De Patatas Vegana 
+	- Patatas cocidas
 	- Francesa
 	- Tuning
 	- Chorizo
